@@ -2,7 +2,7 @@
   "changes": [
     {
       "packageName": "office-ui-fabric-react",
-      "comment": "allow 'chevron down' icon on Dropdown to be customized",
+      "comment": "allow 'caret down' icon on Dropdown to be customized",
       "type": "minor"
     }
   ],
